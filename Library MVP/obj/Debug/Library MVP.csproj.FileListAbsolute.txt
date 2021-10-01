@@ -54,3 +54,6 @@ D:\Library MVP\Library MVP\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resource
 D:\Library MVP\Library MVP\obj\Debug\Library MVP.csproj.CopyComplete
 D:\Library MVP\Library MVP\obj\Debug\Library_MVP.Views.Forms.Frm_Category.resources
 D:\Library MVP\Library MVP\obj\Debug\Library_MVP.Views.Forms.Frm_BookPlace.resources
+D:\Library MVP\Library MVP\obj\Debug\Library_MVP.Views.Forms.Frm_DarNashr.resources
+D:\Library MVP\Library MVP\obj\Debug\Library_MVP.Views.Forms.Frm_Authors.resources
+D:\Library MVP\Library MVP\obj\Debug\Library_MVP.Views.Forms.Frm_Country.resources

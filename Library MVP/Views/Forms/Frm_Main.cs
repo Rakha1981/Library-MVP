@@ -34,5 +34,23 @@ namespace Library_MVP.Views.Forms
 			Frm_BookPlace frm = new Frm_BookPlace();
 			frm.ShowDialog();
 		}
+
+		private void barButtonItem16_ItemClick(object sender, ItemClickEventArgs e)
+		{
+			Frm_DarNashr frm = new Frm_DarNashr();
+			frm.ShowDialog();
+		}
+
+		private void barButtonItem17_ItemClick(object sender, ItemClickEventArgs e)
+		{
+			Frm_Country frm = new Frm_Country();
+			frm.ShowDialog();
+		}
+
+		private void barButtonItem14_ItemClick(object sender, ItemClickEventArgs e)
+		{
+			Frm_Authors frm = new Frm_Authors();
+			frm.ShowDialog();
+		}
 	}
 }
