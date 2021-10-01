@@ -3,8 +3,54 @@ D:\Library MVP\Library MVP\bin\Debug\Library MVP.exe
 D:\Library MVP\Library MVP\bin\Debug\Library MVP.pdb
 D:\Library MVP\Library MVP\obj\Debug\Library MVP.csprojAssemblyReference.cache
 D:\Library MVP\Library MVP\obj\Debug\Library_MVP.Properties.Resources.resources
-D:\Library MVP\Library MVP\obj\Debug\Library_MVP.View.Frm_Main.resources
 D:\Library MVP\Library MVP\obj\Debug\Library MVP.csproj.GenerateResource.cache
 D:\Library MVP\Library MVP\obj\Debug\Library MVP.csproj.CoreCompileInputs.cache
 D:\Library MVP\Library MVP\obj\Debug\Library MVP.exe
 D:\Library MVP\Library MVP\obj\Debug\Library MVP.pdb
+D:\Library MVP\Library MVP\obj\Debug\Library_MVP.Views.Forms.Frm_Main.resources
+D:\Library MVP\Library MVP\obj\Debug\Library MVP.exe.licenses
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Data.v18.1.dll
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.XtraBars.v18.1.dll
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Library MVP\Library MVP\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Library MVP\Library MVP\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Library MVP\Library MVP\obj\Debug\Library MVP.csproj.CopyComplete
+D:\Library MVP\Library MVP\obj\Debug\Library_MVP.Views.Forms.Frm_Category.resources
+D:\Library MVP\Library MVP\obj\Debug\Library_MVP.Views.Forms.Frm_BookPlace.resources

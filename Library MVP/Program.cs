@@ -16,7 +16,7 @@ namespace Library_MVP
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new View.Frm_Main());
+			Application.Run(new Views.Forms.Frm_Main());
 		}
 	}
 }
